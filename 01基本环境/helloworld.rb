@@ -11,3 +11,6 @@ puts "hello world"
 p 100
 p "100"
 p '100'
+
+#输出中文
+puts "听说我是中文"
