@@ -16,3 +16,9 @@ p name
 name[name.size] = "胡伯"
 
 p name
+
+
+#数组的遍历
+name.each{ |n|
+    print n, "\n"
+}
